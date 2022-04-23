@@ -1,9 +1,4 @@
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
-
-<p align="center">
-
-  <img src="./readme-banner.png">
-</p>
+﻿# Ecommerce shopping cart application
 
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
@@ -49,8 +44,3 @@ The MIT License (MIT). Please see License File for more information.
 
 <br/>
 <br/>
-
-<p align="center"><img src="http://www.jeffersonribeiro.com/assets/img/apple-icon-180x180.png" width="35" height="35"/></p>
-<p align="center">
-<sub>A little project by <a href="http://www.jeffersonribeiro.com/">Jefferson Ribeiro</a></sub>
-</p>
